@@ -1,7 +1,12 @@
-# 👨‍💻 Davi Vinicius de Lima
+<!-- Perfil README com animações e destaques -->
 
-🧭 "Foco no propósito"  
-Sou apaixonado por tecnologia e estou trilhando minha jornada no mundo da TI, com foco em desenvolvimento e infraestrutura de redes. Atualmente, estudo Análise e Desenvolvimento de Sistemas e já iniciei alguns projetos práticos que demonstram meu crescimento técnico.
+<h1 align="center">👨‍💻 Davi Vinicius de Lima</h1>
+
+<p align="center">
+  <em>🧭 "Foco no propósito"</em><br>
+  Sou apaixonado por tecnologia e estou trilhando minha jornada no mundo da TI, com foco em <strong>desenvolvimento</strong> e <strong>infraestrutura de redes</strong>.<br>
+  Atualmente, estudo <strong>Análise e Desenvolvimento de Sistemas</strong> e já iniciei alguns projetos práticos que demonstram meu crescimento técnico.
+</p>
 
 ---
 
@@ -9,51 +14,59 @@ Sou apaixonado por tecnologia e estou trilhando minha jornada no mundo da TI, co
 
 ### 💰 Sistema Bancário em Python
 Um projeto simples de simulação de banco com funcionalidades como:
-- Cadastro de cliente
-- Depósito e saque
-- Histórico de transações
+- ✅ Cadastro de cliente
+- 💵 Depósito e saque
+- 📜 Histórico de transações
 
-🔗 [Ver projeto no GitHub](https://github.com/davi-lima-net/sistema-bancario-python)
+🔗 <a href="https://github.com/davi-lima-net/sistema-bancario-python" target="_blank"><img src="https://img.shields.io/badge/Ver%20no%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" /></a>
 
 ---
 
 ### 🤖 Assistente Virtual com Microsoft Copilot Studio
 Criação de um assistente conversacional utilizando:
-- Fluxo personalizado
-- Respostas automáticas
-- Simulação de agendamento e transferências
+- 🔄 Fluxo personalizado
+- 🤖 Respostas automáticas
+- 📅 Simulação de agendamento e transferências
 
-🔗 [Ver projeto no GitHub](https://github.com/davi-lima-net/assistente-virtual-copilot)
+🔗 <a href="https://github.com/davi-lima-net/assistente-virtual-copilot" target="_blank"><img src="https://img.shields.io/badge/Ver%20no%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" /></a>
 
 ---
 
 ## 🛠️ Tecnologias em Aprendizado
 
-- Redes e Infraestrutura (Zabbix, TCP/IP, DNS, etc)
-- Front-End: HTML, CSS, JavaScript
-- Back-End: Python, Node.js (em aprendizado)
-- Git & GitHub
-- Microsoft Copilot Studio
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+> 🔧 Também estudando redes (Zabbix, TCP/IP, DNS...)
 
 ---
 
 ## 🌐 Meus Links
 
-- 📬 Email: [davidbarros.dv@gmail.com](mailto:davidbarros.dv@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/davi-vinicius-lima-silva-b2508b206](https://linkedin.com/in/davi-vinicius-lima-silva-b2508b206)
-- 🧠 Portfólio: [em construção]
-- 🔗 GitHub: [github.com/davi-lima-net](https://github.com/davi-lima-net)
+<p align="center">
+  <a href="mailto:davidbarros.dv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/davi-vinicius-lima-silva-b2508b206" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/davi-lima-net" target="_blank"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+🧠 Portfólio: *em construção*
 
 ---
 
 ## ✨ Curiosidades
-🎮 Apaixonado por games e tecnologias inovadoras  
-💡 Sempre buscando aprender algo novo e aplicar na prática  
+
+- 🎮 Apaixonado por games e tecnologias inovadoras  
+- 💡 Sempre buscando aprender algo novo e aplicar na prática  
 
 ---
 
 ## 📌 Assinatura
 
 > Desenvolvido com foco, disciplina e vontade de crescer na tecnologia.  
-> _by Davi Vinicius de Lima_
-
+> _by Davi Vinicius de Lima_ ✍️
